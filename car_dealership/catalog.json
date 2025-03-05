@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Ferrari 812 Competizione",
+        "Description": "An exclusive limited version Ferrari powered by a v12 of 830 hp and 692 nm.",
+        "Price": "1.800.000 usd",
+        "Stock_availability": 6,
+        "Image": "car-catalog/812comp.jpg"
+    },
+    {
+        "Name": "Bugatti Tourbillon",
+        "Description": "A stunning hybrid Bugatti powered by a v16 with 1800 hp and 2300 nm, there are only 250 units in the world.",
+        "Price": "3.800.000 usd",
+        "Stock_availability": 2,
+        "Image": "car-catalog/tourbillon.jpg"
+    },
+    {
+        "Name": "Koenigsegg Regera",
+        "Description": "This Koenigsegg is a masterpiece with an amazing twin-turbo v8 powered with 1300 hp and 1200 nm, with also another electric motor",
+        "Price": "3.000.000 usd",
+        "Stock_availability": 1,
+        "Image": "car-catalog/regera.jpg"
+    },
+    {
+        "Name": "Lamborghini Aventador SVJ",
+        "Description": "This exclusive lambo is powered by a screaming v12 with 770 hp and 720 nm.",
+        "Price": "1.000.000 usd",
+        "Stock_availability": 8,
+        "Image": "car-catalog/svj.jpg"
+    },
+    {
+        "Name": "Mclaren Senna",
+        "Description": "Mclaren gave this name to this beautty in honor to Ayrton Senna. This supercar has a twin-turbo v8 with 820hp and 800nm",
+        "Price": "1.500.000 usd",
+        "Stock_availability": 3,
+        "Image": "car-catalog/senna.jpg"
+    },
+    {
+        "Name": "Porsche 918 Spyder",
+        "Description": "This exclusive Porsche with only 918 units in the world gives 875 hp and 1280 nm by a v8 engine with 2 electric motors",
+        "Price": "2.000.000",
+        "Stock_availability": 4,
+        "Image": "car-catalog/918.jpg"
+    },
+    {
+        "Name": "Pagani Huayra",
+        "Description": "A super unique piece designed by Horacio Pagani and powered by an AMG v12 engine with 900 hp and 770 nm.",
+        "Price": "3.500.000 usd",
+        "Stock_availability": 0,
+        "Image": "car-catalog/huayra.jpg"
+    },
+    {
+        "Name": "Brabus G-Wagon",
+        "Description": "A luxury SUV modified by Brabus powered by a twin-turbo v8 with 910 hp and 1250 nm.",
+        "Price": "200.000 usd",
+        "Stock_availability": 20,
+        "Image": "car-catalog/gwa.jpg"
+    },
+    {
+        "Name": "Ferrari 488 Pista",
+        "Description": "A very fun driving supercar. Ferrari powered it with a twin-turbo v8 with 720 hp and 770 nm",
+        "Price": "400.000 usd",
+        "Stock_availability": 5,
+        "Image": "car-catalog/488pista.jpg"
+    },
+    {
+        "Name": "Lamborghini Huracan STO",
+        "Description": "The race version of the default lambo huracan. powered by an atmospheric v10 with 640 hp and 565 nm",
+        "Price": "350.000 usd",
+        "Stock_availability": 5,
+        "Image": "car-catalog/sto.jpg"
+    }
+]
