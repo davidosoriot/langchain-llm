@@ -119,7 +119,7 @@ if st.sidebar.button("Get Product Stock"):
     st.sidebar.write("Stock Availability:", stock)
 
 # get_all_products
-st.sidebar.subheader("Validate get_all_products")
+st.sidebar.subheader("Get all products")
 if st.sidebar.button("Get All Products"):
     all_products = get_all_products(catalog)
     st.sidebar.write("All Product Names:")
